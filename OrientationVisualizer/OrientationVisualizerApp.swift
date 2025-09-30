@@ -1,10 +1,3 @@
-//
-//  OrientationVisualizerApp.swift
-//  OrientationVisualizer
-//
-//  Created by Willie Earl on 9/29/25.
-//
-
 import SwiftUI
 
 @main

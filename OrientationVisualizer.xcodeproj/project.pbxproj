@@ -10,9 +10,22 @@
 		475C4F5F2E8B67C4004BCC28 /* OrientationVisualizer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OrientationVisualizer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
+		475C4F772E8B69A4004BCC28 /* Exceptions for "OrientationVisualizer" folder in "Copy Bundle Resources" phase from "OrientationVisualizer" target */ = {
+			isa = PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet;
+			buildPhase = 475C4F5D2E8B67C4004BCC28 /* Resources */;
+			membershipExceptions = (
+				OrientationCubeView.swift,
+			);
+		};
+/* End PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		475C4F612E8B67C4004BCC28 /* OrientationVisualizer */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				475C4F772E8B69A4004BCC28 /* Exceptions for "OrientationVisualizer" folder in "Copy Bundle Resources" phase from "OrientationVisualizer" target */,
+			);
 			path = OrientationVisualizer;
 			sourceTree = "<group>";
 		};
